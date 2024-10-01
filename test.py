@@ -1,4 +1,4 @@
-from graphs_thepenguinhead import sp
+from graphs_jjarek import sp
 
 graph = {
     0: {1: 4, 7: 8},
