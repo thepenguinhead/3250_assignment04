@@ -3,7 +3,7 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "graphs_thepenguinhead"
+name = "graphs_jjarek"
 version = "0.1.0"
 description = "A Python package that implements Dijkstra's shortest path algorithm"
 authors = [
