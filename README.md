@@ -1,6 +1,6 @@
 # 3250_assignment04
 
-# graphs_thepenguinhead
+# graphs_jjarek
 
 This Python package implements Dijkstra's shortest path algorithm for weighted graphs.
 
